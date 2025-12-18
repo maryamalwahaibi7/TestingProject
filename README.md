@@ -1,1 +1,1 @@
-This ia a test project for dotnet training
+This ia a test project for dotnet training on git
